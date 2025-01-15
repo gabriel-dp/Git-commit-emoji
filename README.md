@@ -12,26 +12,26 @@ Why not combine these two?
 
 |Emoji | Commit | Code |
 |:-:|:-|:-|
-|🎉| Project beginning | :tada: |
-|✨| New feature | :sparkles: |
-|🐛| Bug fix | :bug: |
-|🔧| Maintenance | :wrench: |
-|📑| Documentation | :bookmark_tabs: |
-|⚙️| Functionality | :gear: |
-|♻️| Refactoring | :recycle: |
-|🎨| Style | :art: |
-|🔍| SEO | :mag: |
-|⚡️| General update | :zap: |
-|🏷️| Release | :label: |
-|🚀| Deploy | :rocket: |
-|📦| Package | :package: |
-|📁| Directory structure | :file_folder: |
-|🔀| Merge changes | :twisted_rightwards_arrows: |
-|⏪️| Revert changes | :rewind: |
-|🚧| Feature in progress | :barrier: |
-|✅| Finished feature | :white_check_mark: |
-|⚠️| Problems in the code | :warning: |
-|💩| Temporary bad code | :poop: |
+|🎉| Project beginning | tada |
+|✨| New feature | sparkles |
+|🐛| Bug fix | bug |
+|🔧| Maintenance | wrench |
+|📑| Documentation | bookmark_tabs |
+|⚙️| Functionality | gear |
+|♻️| Refactoring | recycle |
+|🎨| Style | art |
+|🔍| SEO | mag |
+|⚡️| General update | zap |
+|🏷️| Release | label |
+|🚀| Deploy | rocket |
+|📦| Package | package |
+|📁| Directory structure | file_folder |
+|🔀| Merge changes | twisted_rightwards_arrows |
+|⏪️| Revert changes | rewind |
+|🚧| Feature in progress | construction |
+|✅| Finished feature | white_check_mark |
+|⚠️| Problems in the code | warning |
+|💩| Temporary bad code | poop |
 
 &nbsp;
 
