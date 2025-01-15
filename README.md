@@ -6,35 +6,38 @@ A commit must clearly explain the project's changes.
 
 Why not combine these two?
 
----
+&nbsp;
 
-### Table of emojis
+## Table of emojis
 
-|Emoji|Commit|
-|:-:|:-|
-|🎉| Project beginning |
-|✨| New feature |
-|🚧| Feature in progress |
-|✅| Finished feature |
-|🐛| Bug fix |
-|🚀| Deploy stuff |
-|🏷️| Release |
-|⚡️| General update |
-|🛠️| Maintenance |
-|♻️| Refactoring |
-|⚙️| Functionality |
-|🎨| Style |
-|🔍️| SEO |
-|📦| Package |
-|📂| Directory |
-|📑| Documentation |
-|⏪️| Revert changes |
-|⚠️| Problems in the code |
-|💩| Temporary bad code |
+|Emoji | Commit | Code |
+|:-:|:-|:-|
+|🎉| Project beginning | :tada: |
+|✨| New feature | :sparkles: |
+|🐛| Bug fix | :bug: |
+|🔧| Maintenance | :wrench: |
+|📑| Documentation | :bookmark_tabs: |
+|⚙️| Functionality | :gear: |
+|♻️| Refactoring | :recycle: |
+|🎨| Style | :art: |
+|🔍| SEO | :mag: |
+|⚡️| General update | :zap: |
+|🏷️| Release | :label: |
+|🚀| Deploy | :rocket: |
+|📦| Package | :package: |
+|📁| Directory structure | :file_folder: |
+|🔀| Merge changes | :twisted_rightwards_arrows: |
+|⏪️| Revert changes | :rewind: |
+|🚧| Feature in progress | :barrier: |
+|✅| Finished feature | :white_check_mark: |
+|⚠️| Problems in the code | :warning: |
+|💩| Temporary bad code | :poop: |
 
-### Attention!
+&nbsp;
 
-Emojis are not enough to explain a change, a **great description** must be part of the commit. 
+### Attention
+
+Emojis are not enough to explain a change, a **great description** must be part of the commit.
 
 `Have fun!`
 
